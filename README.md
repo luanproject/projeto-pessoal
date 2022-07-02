@@ -1,2 +1,2 @@
 # projeto-pessoal
-Site pessoal construído no primeiro momento com HTML e CSS
+Site pessoal construído aplicando o conteúdo dos cursos HTML, CSS e UI Design para iniciantes
